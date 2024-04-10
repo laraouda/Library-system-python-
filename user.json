@@ -1,0 +1,60 @@
+{
+    "users": [
+        {
+            "user_data": {
+                "Name": "lara",
+                "ID": 254,
+                "BooksBorrowed": "lala",
+                "Email": "laouda@",
+                "area": "03465",
+                "age": 19,
+                "credit_card": "035165",
+                "social_security": "degla",
+                "restricted": false
+            },
+            "type": "NormalUser"
+        },
+        {
+            "user_data": {
+                "Name": "ahmed",
+                "ID": 364,
+                "BooksBorrowed": "book2",
+                "Email": "ahmed@",
+                "area": "6844",
+                "age": 45,
+                "credit_card": "tagamo3",
+                "social_security": "9435",
+                "restricted": false
+            },
+            "type": "Librarian"
+        },
+        {
+            "user_data": {
+                "Name": "mohamed",
+                "ID": 676,
+                "BooksBorrowed": "book3",
+                "Email": "mohamed@",
+                "area": "64545",
+                "age": 34,
+                "credit_card": "zayed",
+                "social_security": "684545",
+                "restricted": false
+            },
+            "type": "SystemDomain"
+        },
+        {
+            "user_data": {
+                "Name": "bruh",
+                "ID": 464,
+                "BooksBorrowed": "book4",
+                "Email": "bruh@",
+                "area": "Municipal",
+                "age": 22,
+                "credit_card": "6845",
+                "social_security": "684531",
+                "restricted": false
+            },
+            "type": "Student"
+        }
+    ]
+}
